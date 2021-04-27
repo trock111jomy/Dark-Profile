@@ -1,0 +1,110 @@
+.main{
+    display: flex;
+    height:100%;
+}
+.left{
+    width:130px;
+    height:100%;
+    overflow-y:auto;
+    position:fixed;
+    margin-left:-10px;
+    margin-top:-8px;
+    background-color: rgb(34,34,34);
+}
+.right{
+    width:100%;
+    margin:0 auto;
+    padding-left:130px;
+
+}
+.sub-container{
+    width:85%;
+    margin:0 auto;
+}
+.front-banner{
+    padding: 24px 0;
+}
+.front-banner-image{
+    display: flex;
+    justify-content: center;
+}
+.leftmenu-item{
+    width:100%;
+    background-color:rgb(34,34,34);
+    color:white;
+    text-align: center;
+    font-size:14px;
+    line-height: 18px;
+    font-weight:400;
+    padding:10px 0;
+}
+.leftmenu-item:hover{
+    background-color: black;
+}
+.leftmenu-item-home{
+    width:100%;
+    background-color:black;
+    color:white;
+    text-align: center;
+    font-size:14px;
+    line-height: 18px;
+    font-weight:400;
+    padding:10px 0;
+}
+.leftmenu-item-home:hover{
+    background-color: lightgrey;
+    color:black;
+    font-weight: 900;
+}
+.leftmenu-item i{
+    font-size:30px;
+}
+.leftmenu-item-home i{
+    font-size:30px;
+}
+.white-box{
+    display:flex;
+    justify-content: space-around;
+    background-color:white;
+    padding:8px;
+    text-align: center;
+    margin: 30px 0;
+}
+.price-compare{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.price-listing{
+    width:49%;
+    filter:brightness(80%);
+}
+.price-listing:hover{
+    filter:brightness(100%);
+}
+.pricelist-btn-container{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(241,241,241);
+    padding:10px;
+}
+.reputation-cards{
+    display:flex;
+    width:45%;
+    margin: 10px 0;
+    align-items:center;
+}
+.photo-collection {
+    display:flex;
+    justify-content: space-between;
+}
+.pci{
+    width:100%;
+    margin:5px 0;
+}
+.photos-left{
+    width:49%;
+}
+.photos-right{
+    width:49%;
+}
