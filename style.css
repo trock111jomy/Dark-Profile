@@ -1,0 +1,11 @@
+@import url("components/text-styles.css");
+@import url("components/container.css");
+@import url("components/pgbar.css");
+@import url("components/button.css");
+@import url("components/images.css");
+
+body{
+    background-color:black;
+    font-family: 'Montserrat', sans-serif;
+   
+}
