@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+.front-banner h2{
+   font-family: 'Montserrat', sans-serif;
+   font-size:64px;
+   line-height:96px;
+   font-weight:400;
+   color:white;
+   text-align: center;
+   margin:20px 0;
+}
+.front-banner p{
+    font-family: 'Montserrat', sans-serif;
+    font-size:15px;
+    line-height:23px;
+    font-weight:400;
+    color:white;
+    text-align: center;
+}
+.p-first-title{
+    width:20%;
+    font-size:30px;
+    font-weight: bolder;
+    font-style:normal;
+    line-height: 100px;
+    color: white;
+    border-bottom: 1px solid  rgb(190, 189, 189) ;
+    margin-bottom:24px;
+}
+.p-normal{
+    font-size:15px;
+    font-weight: 400;
+    font-style:normal;
+    line-height: 26px;
+    text-align: justify;
+    color: rgb(190, 189, 189);
+}
+.p-normal-letterspacing{
+    font-size:15px;
+    font-weight: 400;
+    font-style:normal;
+    line-height: 26px;
+    text-align: justify;
+    color: rgb(190, 189, 189);
+    letter-spacing: .3em;
+}
+.p-normal-title{
+    font-size:24px;
+    line-height: 36px;
+    font-weight: bolder;
+    font-style:normal;
+    color: white;
+}
+.numbers{
+    font-size:24px;
+    line-height: 36px;
+    font-weight: bolder;
+    font-style:normal;
+    color: black;
+    text-align: center;
+    margin-bottom:0;
+}
+.results{
+    font-size:15px;
+    line-height: 23px;
+    font-weight: bolder;
+    font-style:normal;
+    color: black;
+    text-align: center;
+    margin-top:0;
+}
+.pricelist-heading{
+    width:100%;
+    padding:20px 0;
+    margin-bottom:0;
+    font-size:24px;
+    line-height: 36px;
+    font-weight: 400;
+    font-style:normal;
+    color: white;
+    text-align: center;
+    background-color:rgb(97,97,97);
+}
+.pricelist-item{
+    width:100%;
+    padding:16px 0;
+    margin:0;
+    font-size:15px;
+    line-height:23px;
+    font-weight:900;
+    font-style:normal;
+    color: black;
+    text-align: center;
+    background-color:white;
+    border-bottom:1px solid lightgrey;
+}
+.pricelist-item h3 {
+    font-size:30px;
+    line-height:45px;
+    margin:0;
+}
+.pricelist-item p{
+    color:rgb(200, 197, 197);
+}
+.avatar-heading{
+    font-size:18px;
+    line-height:27px;
+    font-weight:400;
+    font-style:normal;
+    color: white;
+    text-align: left;
+}
+.p-avatar{
+    font-size:15px;
+    line-height:23px;
+    font-weight:400;
+    font-style:normal;
+    color: white;
+    text-align: left;
+}
+.input-box{
+    width:100%;
+    padding:20px;
+    margin:7px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size:15px;
+    line-height:23px;
+    font-weight:900;
+    font-style:normal;
+}
